@@ -1,0 +1,14 @@
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\bin\Debug\netcoreapp2.2\PenguinAngularCore.deps.json
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\bin\Debug\netcoreapp2.2\PenguinAngularCore.runtimeconfig.json
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\bin\Debug\netcoreapp2.2\PenguinAngularCore.runtimeconfig.dev.json
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\bin\Debug\netcoreapp2.2\PenguinAngularCore.dll
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\bin\Debug\netcoreapp2.2\PenguinAngularCore.pdb
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.csprojAssemblyReference.cache
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.csproj.CoreCompileInputs.cache
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.RazorAssemblyInfo.cache
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.RazorAssemblyInfo.cs
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.AssemblyInfoInputs.cache
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.AssemblyInfo.cs
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.RazorTargetAssemblyInfo.cache
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.dll
+D:\PeunguinAngularCore\PenguinAngularCore\PenguinAngularCore\obj\Debug\netcoreapp2.2\PenguinAngularCore.pdb
